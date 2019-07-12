@@ -38,11 +38,19 @@ nav>ul>li>a{
 font-style:italic;
 text-align: left;
 text-decoration: black underline;
+display:flex;
+justify-content:space-around;
+flex-direction: row;
+
+
 
  } 
  .contain{
      text-decoration: none;
      text-align: left;
+     display:flex;
+     justify-content:space-around;
+     flex-direction: row;
      
  }
  footer{
