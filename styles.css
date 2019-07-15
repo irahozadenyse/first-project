@@ -36,20 +36,12 @@ nav>ul>li>a{
  }
  .top{
 font-style:italic;
-text-align: left;
 text-decoration: black underline;
-display:flex;
-justify-content:space-around;
-flex-direction: row;
-
-
-
  } 
  .contain{
      text-decoration: none;
-     text-align: left;
-     display:flex;
-     justify-content:space-around;
+     
+     
      
      
  }
@@ -59,8 +51,5 @@ flex-direction: row;
         padding:1px;
         line-height: 1;
         text-align: center;
-      }
- 
- 
- 
+ }
  
