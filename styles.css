@@ -14,7 +14,7 @@ display:block;
 }  
 nav>ul>li>a:hover{
 background-color : blue
-box-shadow:0 0 10px rgba(0,0,0,0.1) insert 0 0 1px rgba(255,255, 255,o.6) ;
+
 } 
 nav>ul>li>a{
  border:10px;
@@ -31,7 +31,7 @@ nav>ul>li>a{
  }
  #im{
      text-align:center;
-     padding-top:5px
+     padding-top:5px;
      border-radius:300px;
  }
  .top{
@@ -50,7 +50,7 @@ flex-direction: row;
      text-align: left;
      display:flex;
      justify-content:space-around;
-     flex-direction: row;
+     
      
  }
  footer{
@@ -60,7 +60,7 @@ flex-direction: row;
         line-height: 1;
         text-align: center;
       }
- }
- .
+ 
+ 
  
  
